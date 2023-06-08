@@ -1,0 +1,18 @@
+/* header */
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header {
+    height: 80px;
+}
+
+.header-nav_list {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+/* end header */

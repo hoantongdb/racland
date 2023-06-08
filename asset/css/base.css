@@ -1,0 +1,36 @@
+:root {
+    --color_primary: #021a84;
+    --color_text: #171717;
+    --color_secondray: #FE4C4C;
+    --color_gray: #999999;
+    --color_light_gray: #E5E5E5;
+    --green-text: #2ADA66;
+    --blue-text: #021A84;
+    --red-text: #E5532A;
+
+}
+
+html,
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+}
+
+.wrapper {
+    max-width: 1160px;
+    width: 100%;
+    margin-inline: auto;
+
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    height: 44px;
+    min-width: 149px;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 100;
+    padding: 8px 16px;
+
+}
